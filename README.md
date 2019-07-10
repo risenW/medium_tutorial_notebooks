@@ -1,2 +1,2 @@
 # medium_tutorial_notebooks
-This a repository of my notebooks used in my blog post on medium.
+A repository of notebooks used for my blog posts
